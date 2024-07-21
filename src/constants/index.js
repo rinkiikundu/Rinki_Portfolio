@@ -58,6 +58,7 @@ export const PROJECTS = [
     description:
       "Built a comprehensive portfolio website showcasing my projects, skills, and work experience.",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    link:"https://rinki-portfolio.vercel.app/"
   },
   {
     title: "Student Care",
