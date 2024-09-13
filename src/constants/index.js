@@ -49,7 +49,7 @@ export const PROJECTS = [
     title: "Blogging Platform",
     image: project4,
     description:
-      "Built a blogging application that allows administrators to share insights and create engaging content on various topics. Users can read, comment, like, and share, fostering a rich and interactive community experience.",
+      "Built a blogging application that allows users to share insights and create engaging content on various topics. Users can read, comment, like, and share, fostering a rich and interactive community experience.",
     technologies: ["React", "Node.js", "MongoDB","Redux","Express"],
     link:"https://blog-5z5y.onrender.com",
   },
