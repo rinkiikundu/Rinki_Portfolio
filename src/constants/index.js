@@ -1,6 +1,6 @@
 import project1 from "../assets/projects/Project-1.jpg";
 import project3 from "../assets/projects/Project-3 .jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project4 from "../assets/projects/project-4.png";
 
 export const HERO_CONTENT = `I’m pursuing a Master of Science in Information Systems at Northeastern University. As a passionate full stack developer, I excel in crafting robust and scalable web applications. With expertise in network technologies, automation, and full stack development, my goal is to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
