@@ -15,8 +15,8 @@ export const EXPERIENCES = [
     role: "Software Engineer",
     company: "Philips",
     description: `
-    Performed thorough clinical network infrastructure testing and automated web interface testing with Selenium and Cucumber to streamline the process. Administered virtual machines with VMware, optimizing system operations through Linux OS configuration and shell scripting to enhance efficiency and reduce manual tasks.`,
-    technologies: ["Linux","Automation","Network Technologies"],
+    Contributed to developing a React-based web app for the Philips PIC iX platform, improving performance and functionality. Helped migrate from Angular to React, achieving full test coverage and better code maintainability. Optimized authentication workflows and collaborated in Agile teams..`,
+    technologies: ["React.js","Node.js","Typescript"],
   },
   {
     year: "Jan 2023 - Dec 2023",
@@ -30,8 +30,9 @@ export const EXPERIENCES = [
     year: "Sep 2021 - Aug 2022",
     role: "Associate Software Engineer",
     company: "TCS",
-    description: `Implemented responsive design principles to enhance application accessibility and utilized Agile practices to streamline feature development and improve customer satisfaction. Resolved core network issues to enhance stability and performance, while proficiently handling routing, switching, and various networking protocols to ensure optimal network operation.`,
-    technologies: ["ServiceNow","Web development", "Network Technologies"],
+    description: `
+    Designed and developed user interfaces using HTML, CSS, and JavaScript, ensuring precise alignment with wireframes and smooth integration with backend systems. Migrated a multi-page user experience to a single-page application, significantly improving responsiveness and usability. Developed RESTful APIs and contributed to the entire software development lifecycle, from requirements gathering to testing.`,
+    technologies: ["Web development", "RESTful API","jQuery","AJAX"],
   },
  
   {
