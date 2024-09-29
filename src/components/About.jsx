@@ -22,10 +22,12 @@ const About = () => {
                 className="flex flex-col items-center lg:items-start">
                     <p className="my-2 max-w-xl py-6 tracking-tighter">{ABOUT_TEXT}</p>
   <div className="text-center mt-4">
-    <a 
-      href="https://docs.google.com/document/d/1Y0IGqGypiVqv_-KbEWBwmZjY83wkrv7B4cRdNUS5vFo/edit" 
-      className="text-style border p-2"
-    >
+  <a 
+                href="/Rinki_Kundu_Resume.pdf" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-style border p-2"
+              >
       Resume
     </a>
   </div>
