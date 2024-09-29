@@ -15,7 +15,7 @@ export const EXPERIENCES = [
     role: "Software Engineer",
     company: "Philips",
     description: `
-    Contributed to developing a React-based web app for the Philips PIC iX platform, improving performance and functionality. Helped migrate from Angular to React, achieving full test coverage and better code maintainability. Optimized authentication workflows and collaborated in Agile teams..`,
+    Contributed to developing a React-based web app for the Philips APC (Access Point Controller) platform, improving performance and functionality. Collaborated with the QA team to identify and fix critical bugs, significantly improving application stability. Optimized authentication workflows and collaborated in Agile teams.`,
     technologies: ["React.js","Node.js","Typescript"],
   },
   {
