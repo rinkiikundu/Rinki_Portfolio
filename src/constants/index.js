@@ -6,7 +6,7 @@ export const HERO_CONTENT = `I’m pursuing a Master of Science in Information S
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications.\n
 After gaining industry experience, I pursued a Master of Science in Information Systems at Northeastern University, where I honed my skills in JavaScript, TypeScript, Python, and React.\n
-During my Software Engineer Co-op at Philips, I played a pivotal role in advancing the iX architecture, further developing my expertise in software development and cloud technologies.\n`;
+During my Software Engineer Co-op at Philips, I played a pivotal role in advancing the APC(Access Point Controller) Web interface, further developing my expertise in software development and cloud technologies.\n`;
 
 
 export const EXPERIENCES = [
@@ -20,10 +20,10 @@ export const EXPERIENCES = [
   },
   {
     year: "Jan 2023 - Dec 2023",
-    role: "Application Processor(Part-time)",
+    role: "Application Engineer",
     company: "Northeastern university",
     description: `
-    Skilled in evaluating domestic and international academic records, ensuring thorough document review and accuracy. Proficient in using Salesforce for managing cases and student inquiries, with a commitment to maintaining data integrity and providing exceptional admissions assistance.`,
+    Developed a JavaScript-based web solution in collaboration with cross-functional teams, streamlining the prompt retrieval process for student applications and improving the efficiency of managing prompts. Additionally, they utilized Salesforce to manage student inquiries, enhancing response efficiency.`,
     technologies: ["Salesforce","Case Management","Communication"],
   },
   {
