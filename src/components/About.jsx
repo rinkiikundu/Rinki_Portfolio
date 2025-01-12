@@ -23,7 +23,7 @@ const About = () => {
                     <p className="my-2 max-w-xl py-6 tracking-tighter">{ABOUT_TEXT}</p>
   <div className="text-center mt-4">
   <a 
-                href="/Rinki_Kundu_Resumee.pdf" 
+                href="/Rinki-Kundu-Resume-gs.pdf" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-style border p-2"
